@@ -1,0 +1,29 @@
+body {
+    background: #f4f6fb;
+    font-family: 'Inter', sans-serif;
+}
+
+.auth-container {
+    max-width: 420px;
+    margin: 70px auto;
+    padding: 40px;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.06);
+}
+
+.auth-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.auth-btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
